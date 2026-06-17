@@ -1,6 +1,6 @@
 # Open Source Assistive Technology Hackathon
 
-[Registration](https://www.eventbrite.com/e/open-source-assistive-technology-hackathon-tickets-1984064378967)
+[Registration [closed]](https://www.eventbrite.com/e/open-source-assistive-technology-hackathon-tickets-1984064378967)
 
 GitHub is committed to [improving the accessibility of open source software](https://github.blog/open-source/social-impact/our-pledge-to-help-improve-the-accessibility-of-open-source-software-at-scale/#reference1) and empowering people with disabilities to actively contribute. In partnership with [NV Access](https://www.nvaccess.org/), the [Center for Accessibility and Open Source](https://caos.org/), and the [Northwest Center for Assistive Technology Training](http://wssb.wa.gov/services/northwest-center-assistive-technology-training-catt-nw), we’re hosting an **Open Source Assistive Technology Hackathon** focused on empowering participants to build skills and make real contributions to the assistive technology tools people rely on every day.
 
