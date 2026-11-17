@@ -30,6 +30,11 @@ The hackathon will occur the **weekend before the CSUN conference** at a locatio
 
 We’d love your participation in this event. [Sign up for the event using this form](https://www.eventbrite.com/e/open-source-assistive-technology-hackathon-2027-tickets-2004909405001).
 
+**If using NVDA**, you may encounter an issue when registering. Please follow these steps: 
+1. Click reserve a spot.
+2. That opens a dialog, but NVDA cannot read it.
+3. Workaround: Relaunch NVDA so you can read the dialog.
+
 *[GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)*
 
 ## Slack
